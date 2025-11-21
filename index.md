@@ -11,7 +11,6 @@ title: Home
     <a href="{{ site.baseurl }}/assessments/">Assessments</a>
     <a href="{{ site.baseurl }}/coursework/">Coursework</a>
     <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
-    <a href="{{ site.baseurl }}/resources/">Resources</a>
   </nav>
 </header>
 
@@ -32,15 +31,12 @@ title: Home
   <section>
     <h2>Course Structure</h2>
     <ul>
-      <li><strong>8 Lectures</strong> covering ML foundations to advanced neural networks</li>
-      <li><strong>8 Programming Sessions</strong> with hands-on Colab notebooks</li>
+      <li><strong>6 Lectures</strong> covering Machine Learning foundations to advanced neural networks</li>
+      <li><strong>2 Projects</strong> with hands-on Colab notebooks</li>
+      <li><strong>1 Review Session</strong> with Mock Exam</li>
       <li><strong>Weekly MCQs</strong> to reinforce concepts</li>
-      <li><strong>4 Optional Sessions</strong> (Refresher + advanced ML topics)</li>
-      <li><strong>1 Coursework</strong> (Competition)</li>
-      <li><strong>1 Final Exam</strong> (written, one page of notes allowed)</li>
+      <li><strong>4 Optional Sessions</strong> (Refresher + advanced Machine Learning topics)</li>
     </ul>
-    <p><strong>Note:</strong> The competition is completed in <strong>groups of 3-4 students</strong>.</p>
-    <p><strong>Note:</strong> Weekly quizzes <strong>do not count</strong> toward the final mark. They are for self-assessment only.</p>
   </section>
 
   <section>
@@ -199,7 +195,7 @@ title: Home
         </tr>
         <tr>
           <td>Session 8</td>
-          <td>Volatility Forecasting with Temporal Fusion Transformers</td>
+          <td>Project - Volatility Forecasting with Temporal Fusion Transformers</td>
           <td>Coming soon</td>
           <td>Coming soon</td>
           <td>Coming soon</td>
@@ -259,10 +255,6 @@ title: Home
         <strong>Progress Tracker</strong><br/>
         <span>Submit feedback per session</span>
       </a>
-      <a href="{{ site.baseurl }}/resources/" class="link-card">
-        <strong>Resources</strong><br/>
-        <span>Lecture PDFs and materials</span>
-      </a>
     </div>
   </section>
 
@@ -270,7 +262,7 @@ title: Home
     <h2>Contact</h2>
     <div class="contact-card">
       <h3>Hachem Madmoun</h3>
-      <p>For questions about practical implementations and course materials:</p>
+      <p>If you have any questions about the course, feel free to reach out.</p>
       <a href="mailto:h.madmoun@ic.ac.uk" class="btn">h.madmoun@ic.ac.uk</a>
     </div>
   </section>

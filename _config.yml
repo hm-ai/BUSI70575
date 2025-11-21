@@ -35,8 +35,6 @@ navigation:
     url: /coursework/
   - title: Progress Tracker
     url: /progress/
-  - title: Resources
-    url: /resources/
 
 # Tufte settings
 tufte_features:

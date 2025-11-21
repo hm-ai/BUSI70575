@@ -12,7 +12,6 @@ permalink: /syllabus/
     <a href="{{ site.baseurl }}/assessments/">Assessments</a>
     <a href="{{ site.baseurl }}/coursework/">Coursework</a>
     <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
-    <a href="{{ site.baseurl }}/resources/">Resources</a>
   </nav>
 </header>
 
@@ -76,6 +75,7 @@ permalink: /syllabus/
       <div class="week-date">Coming soon</div>
       <h3>Session 6: Introducing Variable Selection Networks</h3>
       <div class="materials">
+        <a href="{{ site.baseurl }}/Lectures/Session_6/Lecture_6.pdf" class="btn">Slides</a>
         <a href="https://colab.research.google.com/drive/1cdPc8iDXwXOVKBRhC68OOQlGr3Y6287i?usp=sharing" class="btn btn-colab">Colab</a>
         <a href="https://colab.research.google.com/drive/1_wQoRnnKuuVVQvN-dhVUulgaJM7MQCXI?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
@@ -93,7 +93,7 @@ permalink: /syllabus/
 
     <div class="week-card">
       <div class="week-date">Coming soon</div>
-      <h3>Session 8: Volatility Forecasting with Temporal Fusion Transformers</h3>
+      <h3>Session 8: Project - Volatility Forecasting with Temporal Fusion Transformers</h3>
       <div class="materials">
         <a href="https://colab.research.google.com/drive/1O2sfkPO-4R-bXRPiAEiyDxsXK5QDv0TW?usp=sharing" class="btn btn-colab">Colab</a>
         <a href="https://colab.research.google.com/drive/1vZrW8DklVhtVaT7SvUuHPuGyWzJf3niy?usp=sharing" class="btn btn-solution">Solution</a>

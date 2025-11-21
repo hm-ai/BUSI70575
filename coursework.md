@@ -12,7 +12,6 @@ permalink: /coursework/
     <a href="{{ site.baseurl }}/assessments/">Assessments</a>
     <a href="{{ site.baseurl }}/coursework/">Coursework</a>
     <a href="{{ site.baseurl }}/progress/">Progress Tracker</a>
-    <a href="{{ site.baseurl }}/resources/">Resources</a>
   </nav>
 </header>
 
