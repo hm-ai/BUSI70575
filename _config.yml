@@ -1,6 +1,6 @@
 # Site settings
 title: "Systematic Trading Strategies with Machine Learning Algorithms"
-description: "BUSI70575 - Imperial College Business School - 2024-2025"
+description: "BUSI70575 - Imperial College Business School - 2025-2026"
 url: "https://hm-ai.github.io"
 baseurl: "/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms"
 
@@ -26,13 +26,17 @@ navigation:
   - title: Home
     url: /
   - title: Syllabus
-    url: /syllabus
+    url: /syllabus/
   - title: Programming
-    url: /programming
+    url: /programming/
   - title: Assessments
-    url: /assessments
+    url: /assessments/
+  - title: Coursework
+    url: /coursework/
+  - title: Progress Tracker
+    url: /progress/
   - title: Resources
-    url: /resources
+    url: /resources/
 
 # Tufte settings
 tufte_features:
