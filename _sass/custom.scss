@@ -1,0 +1,435 @@
+// Imperial College Brand Colors
+$imperial-navy: #002147;
+$imperial-blue: #003E74;
+$imperial-light-blue: #0091D4;
+$imperial-gold: #C4A35A;
+$imperial-grey: #6D6E71;
+$imperial-light-grey: #E5E5E5;
+
+// Colab colors
+$colab-orange: #F9AB00;
+$colab-dark: #E65100;
+
+// Base typography
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+// Navigation
+.site-header {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid $imperial-light-grey;
+  margin-bottom: 2rem;
+}
+
+.site-nav {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  a {
+    color: $imperial-navy;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s;
+
+    &:hover, &.active {
+      border-bottom-color: $imperial-gold;
+    }
+  }
+}
+
+// Article styling
+article {
+  max-width: 55%;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+
+  @media (max-width: 900px) {
+    max-width: 90%;
+  }
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: $imperial-navy;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: $imperial-grey;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: $imperial-blue;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+// Logo styling
+.logo-figure {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.course-logo {
+  max-width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+// Quick links grid
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.link-card {
+  display: block;
+  padding: 1.5rem;
+  background: white;
+  border: 1px solid $imperial-light-grey;
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s, border-color 0.2s;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-color: $imperial-gold;
+  }
+
+  strong {
+    color: $imperial-navy;
+    font-size: 1.1rem;
+  }
+
+  span {
+    color: $imperial-grey;
+    font-size: 0.9rem;
+  }
+}
+
+// Buttons - override Tufte link styles
+.btn {
+  display: inline-block !important;
+  padding: 0.5rem 1rem !important;
+  margin-right: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+  background: $imperial-navy !important;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 4px !important;
+  font-size: 0.85rem !important;
+  transition: background 0.2s !important;
+  text-shadow: none !important;
+  background-image: none !important;
+
+  &:hover {
+    background: $imperial-blue !important;
+    color: white !important;
+  }
+}
+
+.btn-colab {
+  background: $colab-orange !important;
+  color: white !important;
+
+  &:hover {
+    background: $colab-dark !important;
+    color: white !important;
+  }
+}
+
+.btn-solution {
+  background: $imperial-grey !important;
+  color: white !important;
+
+  &:hover {
+    background: darken($imperial-grey, 10%) !important;
+    color: white !important;
+  }
+}
+
+// Override Tufte link underlines for all links in content
+a {
+  text-shadow: none !important;
+  background-image: none !important;
+}
+
+// Week cards (syllabus)
+.schedule {
+  margin-top: 2rem;
+}
+
+.week-card {
+  background: white;
+  border: 1px solid $imperial-light-grey;
+  border-left: 4px solid $imperial-navy;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0 8px 8px 0;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    color: $imperial-navy;
+  }
+
+  .week-date {
+    font-size: 0.85rem;
+    color: $imperial-grey;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .materials {
+    margin-top: 1rem;
+  }
+
+  .optional {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: $imperial-grey;
+
+    .optional-label {
+      font-style: italic;
+    }
+
+    a {
+      color: $imperial-blue;
+    }
+  }
+
+  .session-type {
+    font-size: 0.85rem;
+    color: $imperial-light-blue;
+    margin: 0;
+    font-style: italic;
+  }
+}
+
+.week-optional {
+  border-left-color: $imperial-grey;
+  background: #fafaf8;
+}
+
+.week-review {
+  border-left-color: $imperial-gold;
+}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+
+  th, td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid $imperial-light-grey;
+  }
+
+  th {
+    background: $imperial-navy;
+    color: white;
+    font-weight: 600;
+  }
+
+  tr:hover {
+    background: rgba($imperial-gold, 0.05);
+  }
+
+  .na {
+    color: $imperial-grey;
+    font-style: italic;
+  }
+}
+
+.programming-table, .quiz-table, .office-hours-table {
+  @media (max-width: 768px) {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+// Colab link styling
+.colab-link {
+  color: $colab-dark;
+  font-weight: 500;
+
+  &:hover {
+    color: darken($colab-dark, 10%);
+  }
+}
+
+// Assessment cards
+.assessment-card {
+  background: white;
+  border: 1px solid $imperial-light-grey;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+
+  h3 {
+    margin-top: 0;
+    color: $imperial-navy;
+  }
+
+  .assessment-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .badge {
+    background: $imperial-light-blue;
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+  }
+
+  .assessment-dates {
+    margin: 1rem 0;
+    display: flex;
+    gap: 2rem;
+    font-size: 0.9rem;
+    color: $imperial-grey;
+  }
+
+  .assessment-links {
+    margin-top: 1rem;
+  }
+}
+
+.coursework {
+  border-left: 4px solid $imperial-gold;
+}
+
+.exam-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+// Resource cards
+.resource-card, .optional-card {
+  background: white;
+  border: 1px solid $imperial-light-grey;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+
+  h3 {
+    margin-top: 0;
+    color: $imperial-navy;
+  }
+}
+
+// Reading list
+.reading-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid $imperial-light-grey;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    a {
+      color: $imperial-blue;
+      text-decoration: none;
+
+      &:hover {
+        color: $imperial-navy;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+// Contact card
+.contact-card {
+  background: $imperial-navy;
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+
+  h3 {
+    color: white;
+    margin-top: 0;
+  }
+
+  .btn {
+    background: $imperial-gold;
+    color: $imperial-navy;
+    font-weight: 600;
+
+    &:hover {
+      background: lighten($imperial-gold, 10%);
+    }
+  }
+}
+
+// Tufte margin notes
+.marginnote {
+  font-size: 0.85rem;
+  color: $imperial-grey;
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .site-nav {
+    gap: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .quick-links {
+    grid-template-columns: 1fr;
+  }
+
+  .assessment-dates {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}

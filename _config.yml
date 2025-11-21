@@ -1,0 +1,48 @@
+# Site settings
+title: "Systematic Trading Strategies with Machine Learning Algorithms"
+description: "BUSI70575 - Imperial College Business School - 2024-2025"
+url: "https://hm-ai.github.io"
+baseurl: "/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms"
+
+# Theme
+remote_theme: clayh53/tufte-jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Site info
+author:
+  name: "Hachem Madmoun"
+  email: "h.madmoun@ic.ac.uk"
+
+# Navigation (used by custom header)
+navigation:
+  - title: Home
+    url: /
+  - title: Syllabus
+    url: /syllabus
+  - title: Programming
+    url: /programming
+  - title: Assessments
+    url: /assessments
+  - title: Resources
+    url: /resources
+
+# Tufte settings
+tufte_features:
+  sidenotes: true
+  marginnotes: true
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea
+  - "*.csv"
+  - "*.ipynb"
