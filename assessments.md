@@ -67,7 +67,11 @@ permalink: /assessments/
 
       <div class="assessment-card">
         <h3>Session 6: Variable Selection Networks</h3>
-        <p class="coming-soon">No quiz for this session</p>
+        <div class="assessment-links">
+          <a href="#" class="btn btn-colab">Take Quiz</a>
+          <a href="{{ site.baseurl }}/Quiz/Quiz_6.pdf" class="btn">PDF</a>
+          <a href="{{ site.baseurl }}/Solution_Quiz/Solution_Quiz_6.pdf" class="btn btn-solution">Solution</a>
+        </div>
       </div>
 
       <div class="assessment-card">
@@ -80,8 +84,8 @@ permalink: /assessments/
       </div>
 
       <div class="assessment-card">
-        <h3>Session 8: Temporal Fusion Transformers</h3>
-        <p class="coming-soon">Coming soon</p>
+        <h3>Session 8: Project - Temporal Fusion Transformers</h3>
+        <p class="coming-soon">No quiz for this session</p>
       </div>
 
       <div class="assessment-card">

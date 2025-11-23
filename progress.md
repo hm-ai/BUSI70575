@@ -21,12 +21,11 @@ permalink: /progress/
 
   <section>
     <h2>How This Works</h2>
-    <p>After each session, please submit your confidence level and any questions you may have. This helps the instructor identify topics that need more clarification and provide targeted support.</p>
+    <p>After each session, please submit your confidence level and any questions you may have. This helps identify topics that need more clarification and provide targeted support.</p>
 
     <div class="info-box">
       <p><strong>Important:</strong></p>
       <ul>
-        <li>Responses are <strong>not anonymous</strong> - your name will be visible to the instructor only.</li>
         <li>This is for <strong>learning support</strong>, not grading. Your responses do not affect your marks.</li>
         <li>Feel free to ask questions or indicate if you are struggling with any topic.</li>
       </ul>
@@ -79,7 +78,7 @@ permalink: /progress/
     </div>
 
     <div class="progress-card">
-      <h3>Session 8: Volatility Forecasting with Temporal Fusion Transformers</h3>
+      <h3>Session 8: Project - Volatility Forecasting with Temporal Fusion Transformers</h3>
       <p>Submit your confidence and any question for this session:</p>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3JprkITJznr8o5txY2QTnB85johJuFbrDNLVIrsX2sR5f6A/viewform?usp=pp_url&entry.476346318=Session+8" target="_blank" class="btn btn-colab">Submit Feedback</a>
     </div>
