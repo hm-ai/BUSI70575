@@ -504,6 +504,19 @@ table {
   border-top: 3px solid $imperial-navy !important;
 }
 
+.schedule-table {
+  width: 100%;
+  table-layout: auto;
+
+  th, td {
+    &:nth-child(3),
+    &:nth-child(4),
+    &:nth-child(5) {
+      white-space: nowrap;
+    }
+  }
+}
+
 // Responsive adjustments
 @media (max-width: 768px) {
   .site-nav {

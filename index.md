@@ -63,7 +63,7 @@ title: Home
 
   <section>
     <h2>Course Schedule</h2>
-    <table>
+    <table class="schedule-table">
       <thead>
         <tr>
           <th>Event</th>
