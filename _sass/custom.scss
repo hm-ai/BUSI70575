@@ -507,6 +507,14 @@ table {
 .schedule-table {
   width: 100%;
   table-layout: auto;
+  border-collapse: collapse;
+  border-left: 3px solid $imperial-navy;
+  border-right: 3px solid $imperial-navy;
+  border-bottom: 3px solid $imperial-navy;
+
+  thead tr {
+    border-bottom: 3px solid $imperial-navy;
+  }
 
   th, td {
     &:nth-child(3),
@@ -515,6 +523,16 @@ table {
       white-space: nowrap;
     }
   }
+}
+
+// Tufte CSS restricts paragraphs/lists to 55% width by default;
+// allow article content to span the full width.
+article p,
+article ul,
+article ol,
+article table {
+  width: 100%;
+  max-width: 100%;
 }
 
 // Responsive adjustments
