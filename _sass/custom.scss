@@ -480,14 +480,23 @@ table {
   }
 }
 
-// Schedule table row styles
+// Schedule table row styles — hierarchy: main > optional > office hours
+.main-session-row {
+  background: rgba($imperial-blue, 0.18) !important;
+  font-weight: 600;
+  color: $imperial-navy;
+  border-left: 4px solid $imperial-blue;
+}
+
 .optional-row {
-  background: rgba($imperial-grey, 0.1) !important;
+  background: rgba($imperial-gold, 0.18) !important;
   font-style: italic;
+  border-left: 4px solid $imperial-gold;
 }
 
 .office-hours-row {
-  background: rgba($imperial-gold, 0.1) !important;
+  background: rgba($imperial-grey, 0.08) !important;
+  color: $imperial-grey;
   font-size: 0.9rem;
 }
 

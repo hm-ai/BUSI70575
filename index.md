@@ -81,7 +81,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 1</td>
           <td>Introduction to Systematic Strategies with Machine Learning</td>
           <td>April 15</td>
@@ -109,7 +109,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 2</td>
           <td>Introduction to Unsupervised Learning Techniques</td>
           <td>April 22</td>
@@ -137,7 +137,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 3</td>
           <td>Latent Variable Models in Financial Asset Regime Detection</td>
           <td>April 29</td>
@@ -165,7 +165,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 4</td>
           <td>Supervised Learning Algorithms</td>
           <td>May 6</td>
@@ -193,7 +193,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 5</td>
           <td>Project - Enhancing Strategy Performance in Crypto Markets</td>
           <td>May 13</td>
@@ -221,7 +221,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 6</td>
           <td>Introducing Variable Selection Networks</td>
           <td>May 20</td>
@@ -249,7 +249,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 7</td>
           <td>Neural Networks for Interpretable Time Series Forecasting</td>
           <td>May 27</td>
@@ -277,7 +277,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 8</td>
           <td>Project - Volatility Forecasting with Temporal Fusion Transformers</td>
           <td>June 3</td>
@@ -305,7 +305,7 @@ title: Home
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr>
+        <tr class="main-session-row">
           <td>Session 9</td>
           <td>Review Session - Mock Exam</td>
           <td>June 10</td>
