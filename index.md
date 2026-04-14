@@ -35,7 +35,7 @@ title: Home
       <li><strong>2 Projects</strong> with hands-on Colab notebooks</li>
       <li><strong>1 Review Session</strong> with Mock Exam</li>
       <li><strong>Weekly MCQs</strong> to reinforce concepts</li>
-      <li><strong>4 Optional Sessions</strong> (Refresher + advanced Machine Learning topics)</li>
+      <li><strong>3 Optional Sessions</strong> (Refresher + advanced Machine Learning topics)</li>
     </ul>
   </section>
 
@@ -74,159 +74,257 @@ title: Home
         </tr>
       </thead>
       <tbody>
-        <tr class="optional-row">
-          <td>Optional Session 1</td>
-          <td>Probability and Calculus Refresher</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>April 15</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 1</td>
           <td>Introduction to Systematic Strategies with Machine Learning</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 15</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 15</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>April 17</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>April 22</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 2</td>
           <td>Introduction to Unsupervised Learning Techniques</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 22</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 22</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="optional-row">
+          <td>Optional Session 1</td>
+          <td>Probability and Calculus Refresher</td>
+          <td>April 24</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>April 29</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 3</td>
           <td>Latent Variable Models in Financial Asset Regime Detection</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 29</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>April 29</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
-        <tr class="optional-row">
-          <td>Optional Session 2</td>
-          <td>Introduction to Deep Generative Models</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>May 1</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>May 6</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 4</td>
           <td>Supervised Learning Algorithms</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 6</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 6</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>May 8</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>May 13</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 5</td>
           <td>Project - Enhancing Strategy Performance in Crypto Markets</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 13</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 13</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="optional-row">
+          <td>Optional Session 2</td>
+          <td>Introduction to Large Language Models</td>
+          <td>May 15</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>May 20</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 6</td>
           <td>Introducing Variable Selection Networks</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 20</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 20</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
-        <tr class="optional-row">
-          <td>Optional Session 3</td>
-          <td>Introduction to Graph Neural Networks</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>May 22</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>May 27</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 7</td>
           <td>Neural Networks for Interpretable Time Series Forecasting</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 27</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>May 27</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>May 29</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>June 3</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 8</td>
           <td>Project - Volatility Forecasting with Temporal Fusion Transformers</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>June 3</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>June 3</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
+        </tr>
+        <tr class="optional-row">
+          <td>Optional Session 3</td>
+          <td>Building Reasoning Models</td>
+          <td>June 5</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>-</td>
+          <td>June 10</td>
+          <td>1pm - 2pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr>
           <td>Session 9</td>
           <td>Review Session - Mock Exam</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>June 10</td>
+          <td>2pm - 5pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>-</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+          <td>June 10</td>
+          <td>5pm - 6pm</td>
+          <td>Sherfield Room 324</td>
         </tr>
-        <tr class="optional-row">
-          <td>Optional Session 4</td>
-          <td>Introduction to LLMs</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
-          <td>Coming soon</td>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>-</td>
+          <td>June 12</td>
+          <td>4pm - 5pm</td>
+          <td>Zoom</td>
         </tr>
       </tbody>
     </table>

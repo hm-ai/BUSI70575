@@ -117,15 +117,15 @@ permalink: /programming/
     </div>
 
     <div class="optional-card">
-      <h3>Deep Generative Models</h3>
-      <p>Introduction to VAEs and GANs for financial data generation.</p>
-      <a href="https://colab.research.google.com/drive/101p_N9Zfw778wZNHJzPZF6WkAPvOtwMq?usp=sharing" class="btn btn-colab">Open in Colab</a>
+      <h3>Introduction to Large Language Models</h3>
+      <p>Foundations of LLMs and their applications.</p>
+      <a href="#" class="btn btn-colab">Open in Colab</a>
     </div>
 
     <div class="optional-card">
-      <h3>Graph Neural Networks</h3>
-      <p>Graph representation learning for financial networks.</p>
-      <a href="https://colab.research.google.com/drive/1qvUXBpc6jwrhtycx_5GD4uFK4glzPmnj?usp=sharing" class="btn btn-colab">Open in Colab</a>
+      <h3>Building Reasoning Models</h3>
+      <p>Techniques for building models that perform structured reasoning.</p>
+      <a href="#" class="btn btn-colab">Open in Colab</a>
     </div>
   </section>
 </article>

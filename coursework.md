@@ -17,6 +17,7 @@ permalink: /coursework/
 
 <article>
   <div class="header-row">
+    <img src="{{ site.baseurl }}/images/logo_alken.png" alt="Alken logo" class="course-logo"/>
     <div class="header-text">
       <h1>Coursework: Competition</h1>
       <p class="subtitle">50% of your final grade</p>
