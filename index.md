@@ -76,7 +76,7 @@ title: Home
       <tbody>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 15</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -90,21 +90,21 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 15</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>April 17</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 22</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -118,7 +118,7 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 22</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
@@ -132,7 +132,7 @@ title: Home
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 29</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -146,21 +146,21 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>April 29</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>May 1</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 6</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -174,21 +174,21 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 6</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>May 8</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 13</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -202,7 +202,7 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 13</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
@@ -216,7 +216,7 @@ title: Home
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 20</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -230,21 +230,21 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 20</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>May 22</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 27</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -258,21 +258,21 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>May 27</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>May 29</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>June 3</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -286,7 +286,7 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>June 3</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
@@ -300,7 +300,7 @@ title: Home
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>June 10</td>
           <td>1pm - 2pm</td>
           <td>Sherfield Room 324</td>
@@ -314,14 +314,14 @@ title: Home
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
-          <td>-</td>
+          <td>In-person Q&amp;A</td>
           <td>June 10</td>
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
           <td>Additional Office Hours</td>
-          <td>-</td>
+          <td>Online Q&amp;A</td>
           <td>June 12</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>

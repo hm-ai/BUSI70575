@@ -516,6 +516,10 @@ table {
     border-bottom: 3px solid $imperial-navy;
   }
 
+  thead th {
+    text-align: center;
+  }
+
   th, td {
     &:nth-child(3),
     &:nth-child(4),
