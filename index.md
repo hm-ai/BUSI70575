@@ -102,7 +102,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>April 22</td>
@@ -130,7 +130,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>April 29</td>
@@ -158,7 +158,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>May 6</td>
@@ -186,7 +186,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>May 13</td>
@@ -214,7 +214,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>May 20</td>
@@ -242,7 +242,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>May 27</td>
@@ -270,7 +270,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>June 3</td>
@@ -298,7 +298,7 @@ title: Home
           <td>4pm - 5pm</td>
           <td>Zoom</td>
         </tr>
-        <tr class="office-hours-row">
+        <tr class="office-hours-row week-start">
           <td>Office Hours</td>
           <td>-</td>
           <td>June 10</td>

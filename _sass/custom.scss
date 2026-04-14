@@ -500,6 +500,10 @@ table {
   font-size: 0.9rem;
 }
 
+.week-start > td {
+  border-top: 3px solid $imperial-navy !important;
+}
+
 // Responsive adjustments
 @media (max-width: 768px) {
   .site-nav {
