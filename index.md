@@ -128,7 +128,7 @@ title: Home
           <td>Probability and Calculus Refresher</td>
           <td>April 24</td>
           <td>4pm - 5pm</td>
-          <td>Zoom</td>
+          <td>Sherfield Room 323</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
