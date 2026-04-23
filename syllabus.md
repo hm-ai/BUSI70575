@@ -117,8 +117,8 @@ permalink: /syllabus/
       <div class="week-date">April 24, 2026</div>
       <h3>Optional Session 1: Probability and Calculus Refresher</h3>
       <div class="materials">
-        <span class="coming-soon">Lecture Notes coming soon</span>
-        <span class="coming-soon">Colab coming soon</span>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/Session_1/Optional_Lecture.pdf" class="btn">Lecture Notes</a>
+        <a href="https://colab.research.google.com/drive/13T2jJw5MayZ7EDBXbHAH7VHRxGrqsG5I?usp=sharing" class="btn btn-colab">Colab</a>
       </div>
     </div>
 
