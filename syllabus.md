@@ -123,8 +123,17 @@ permalink: /syllabus/
     </div>
 
     <div class="week-card week-optional">
-      <div class="week-date">May 15, 2026</div>
-      <h3>Optional Session 2: Introduction to Large Language Models</h3>
+      <div class="week-date">May 8, 2026</div>
+      <h3>Optional Session 2: Probability and Calculus Refresher</h3>
+      <div class="materials">
+        <span class="coming-soon">Lecture Notes coming soon</span>
+        <span class="coming-soon">Colab coming soon</span>
+      </div>
+    </div>
+
+    <div class="week-card week-optional">
+      <div class="week-date">May 29, 2026</div>
+      <h3>Optional Session 3: Introduction to Large Language Models</h3>
       <div class="materials">
         <span class="coming-soon">Lecture Notes coming soon</span>
         <span class="coming-soon">Colab coming soon</span>
@@ -133,7 +142,7 @@ permalink: /syllabus/
 
     <div class="week-card week-optional">
       <div class="week-date">June 5, 2026</div>
-      <h3>Optional Session 3: Building Reasoning Models</h3>
+      <h3>Optional Session 4: Building Reasoning Models</h3>
       <div class="materials">
         <span class="coming-soon">Lecture Notes coming soon</span>
         <span class="coming-soon">Colab coming soon</span>

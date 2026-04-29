@@ -35,7 +35,7 @@ title: Home
       <li><strong>2 Projects</strong> with hands-on Colab notebooks</li>
       <li><strong>1 Review Session</strong> with Mock Exam</li>
       <li><strong>Weekly MCQs</strong> to reinforce concepts</li>
-      <li><strong>3 Optional Sessions</strong> (Refresher + advanced Machine Learning topics)</li>
+      <li><strong>4 Optional Sessions</strong> (Refresher + advanced Machine Learning topics)</li>
     </ul>
   </section>
 
@@ -179,12 +179,12 @@ title: Home
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr class="office-hours-row">
-          <td>Additional Office Hours</td>
-          <td>Online Q&amp;A</td>
+        <tr class="optional-row">
+          <td>Optional Session 2</td>
+          <td>Probability and Calculus Refresher</td>
           <td>May 8</td>
-          <td>4pm - 5pm</td>
-          <td>Zoom</td>
+          <td>3pm - 5pm</td>
+          <td>Room to be defined</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
@@ -207,9 +207,9 @@ title: Home
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr class="optional-row">
-          <td>Optional Session 2</td>
-          <td>Introduction to Large Language Models</td>
+        <tr class="office-hours-row">
+          <td>Additional Office Hours</td>
+          <td>Online Q&amp;A</td>
           <td>May 15</td>
           <td>4pm - 5pm</td>
           <td>Zoom</td>
@@ -263,12 +263,12 @@ title: Home
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr class="office-hours-row">
-          <td>Additional Office Hours</td>
-          <td>Online Q&amp;A</td>
+        <tr class="optional-row">
+          <td>Optional Session 3</td>
+          <td>Introduction to Large Language Models</td>
           <td>May 29</td>
           <td>4pm - 5pm</td>
-          <td>Zoom</td>
+          <td>Room to be defined</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
@@ -292,11 +292,11 @@ title: Home
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="optional-row">
-          <td>Optional Session 3</td>
+          <td>Optional Session 4</td>
           <td>Building Reasoning Models</td>
           <td>June 5</td>
           <td>4pm - 5pm</td>
-          <td>Zoom</td>
+          <td>Room to be defined</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
