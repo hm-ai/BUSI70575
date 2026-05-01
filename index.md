@@ -183,8 +183,8 @@ title: Home
           <td>Optional Session 2</td>
           <td>Probability and Calculus Refresher</td>
           <td>May 8</td>
-          <td>3pm - 5pm</td>
-          <td>Room to be defined</td>
+          <td>4pm - 6pm</td>
+          <td>Sherfield Room 323</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
@@ -268,7 +268,7 @@ title: Home
           <td>Introduction to Large Language Models</td>
           <td>May 29</td>
           <td>4pm - 5pm</td>
-          <td>Room to be defined</td>
+          <td>Sherfield Room 323</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
@@ -296,7 +296,7 @@ title: Home
           <td>Building Reasoning Models</td>
           <td>June 5</td>
           <td>4pm - 5pm</td>
-          <td>Room to be defined</td>
+          <td>Sherfield Room 323</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
