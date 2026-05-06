@@ -296,7 +296,7 @@ title: Home
           <td>Building Reasoning Models</td>
           <td>June 5</td>
           <td>4pm - 5pm</td>
-          <td>Sherfield Room 323</td>
+          <td>LT1</td>
         </tr>
         <tr class="office-hours-row week-start">
           <td>Office Hours</td>
