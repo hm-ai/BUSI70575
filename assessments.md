@@ -115,7 +115,7 @@ permalink: /assessments/
     </div>
 
     <div class="assessment-card">
-      <h3>Exam 26/27</h3>
+      <h3>Final Exam 26/27</h3>
       <p class="coming-soon">Coming soon</p>
     </div>
   </section>
