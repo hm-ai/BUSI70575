@@ -126,7 +126,7 @@ permalink: /syllabus/
       <div class="week-date">May 8, 2026</div>
       <h3>Optional Session 2: Probability and Calculus Refresher</h3>
       <div class="materials">
-        <span class="coming-soon">Lecture Notes coming soon</span>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Lecture_Notes_Proba_Calculus.pdf" class="btn">Lecture Notes</a>
         <a href="https://colab.research.google.com/drive/13T2jJw5MayZ7EDBXbHAH7VHRxGrqsG5I?usp=sharing" class="btn btn-colab">Colab</a>
       </div>
     </div>
@@ -135,8 +135,7 @@ permalink: /syllabus/
       <div class="week-date">May 29, 2026</div>
       <h3>Optional Session 3: Introduction to Large Language Models</h3>
       <div class="materials">
-        <span class="coming-soon">Lecture Notes coming soon</span>
-        <span class="coming-soon">Colab coming soon</span>
+        <span class="coming-soon">Coming soon</span>
       </div>
     </div>
 
@@ -144,8 +143,7 @@ permalink: /syllabus/
       <div class="week-date">June 5, 2026</div>
       <h3>Optional Session 4: Building Reasoning Models</h3>
       <div class="materials">
-        <span class="coming-soon">Lecture Notes coming soon</span>
-        <span class="coming-soon">Colab coming soon</span>
+        <span class="coming-soon">Coming soon</span>
       </div>
     </div>
 
