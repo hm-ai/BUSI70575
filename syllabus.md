@@ -47,6 +47,7 @@ permalink: /syllabus/
       <h3>Session 3: Latent Variable Models in Financial Asset Regime Detection</h3>
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Session_3/Lecture_3.pdf" class="btn">Slides</a>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Lecture_Notes_LVM.pdf" class="btn btn-optional">Optional Lecture Notes</a>
         <a href="https://colab.research.google.com/drive/1wHLzIDWsvotAnTJHfE1TbEepbm630Wo8?usp=sharing" class="btn btn-colab">Colab</a>
         <a href="https://colab.research.google.com/drive/1VmAMgXONTwS75alXxVBISljMvOOYSoSz?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
@@ -117,8 +118,7 @@ permalink: /syllabus/
       <div class="week-date">April 24, 2026</div>
       <h3>Optional Session 1: Probability and Calculus Refresher</h3>
       <div class="materials">
-        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/Session_1/Optional_Lecture.pdf" class="btn">Lecture Notes</a>
-        <a href="https://colab.research.google.com/drive/13T2jJw5MayZ7EDBXbHAH7VHRxGrqsG5I?usp=sharing" class="btn btn-colab">Colab</a>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Lecture_Notes_Proba_Calculus.pdf" class="btn">Lecture Notes</a>
       </div>
     </div>
 
@@ -127,7 +127,7 @@ permalink: /syllabus/
       <h3>Optional Session 2: Probability and Calculus Refresher</h3>
       <div class="materials">
         <span class="coming-soon">Lecture Notes coming soon</span>
-        <span class="coming-soon">Colab coming soon</span>
+        <a href="https://colab.research.google.com/drive/13T2jJw5MayZ7EDBXbHAH7VHRxGrqsG5I?usp=sharing" class="btn btn-colab">Colab</a>
       </div>
     </div>
 

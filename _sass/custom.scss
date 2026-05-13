@@ -199,6 +199,16 @@ h3 {
   }
 }
 
+.btn-optional {
+  background: $imperial-gold !important;
+  color: white !important;
+
+  &:hover {
+    background: darken($imperial-gold, 10%) !important;
+    color: white !important;
+  }
+}
+
 // Override Tufte link underlines for all links in content
 a {
   text-shadow: none !important;
