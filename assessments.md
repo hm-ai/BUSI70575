@@ -96,34 +96,27 @@ permalink: /assessments/
   </section>
 
   <section>
-    <h2>Mock Exams</h2>
+    <h2>Past Exams</h2>
 
-    <h3>2025/2026</h3>
-    <p class="coming-soon">Coming soon</p>
-
-    <h3>2024/2025</h3>
     <div class="assessment-card">
-      <h3>Mock Exam 2025</h3>
+      <h3>Mock Exam</h3>
       <div class="assessment-links">
         <a href="{{ site.baseurl }}/Exams/Mock_Exam_2025.pdf" class="btn">Exam</a>
         <a href="{{ site.baseurl }}/Exams/Solution_Mock_Exam_2025.pdf" class="btn btn-solution">Solution</a>
       </div>
     </div>
-  </section>
 
-  <section>
-    <h2>Final Exams</h2>
-
-    <h3>2025/2026</h3>
-    <p class="coming-soon">Coming soon</p>
-
-    <h3>2024/2025</h3>
     <div class="assessment-card">
-      <h3>Final Exam 2025</h3>
+      <h3>Final Exam 25/26</h3>
       <div class="assessment-links">
         <a href="{{ site.baseurl }}/Exams/Exam_2025.pdf" class="btn">Exam</a>
         <a href="{{ site.baseurl }}/Exams/Solution_Exam_2025.pdf" class="btn btn-solution">Solution</a>
       </div>
+    </div>
+
+    <div class="assessment-card">
+      <h3>Exam 26/27</h3>
+      <p class="coming-soon">Coming soon</p>
     </div>
   </section>
 
