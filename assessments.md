@@ -99,15 +99,12 @@ permalink: /assessments/
     <h2>Past Exams</h2>
 
     <div class="assessment-card">
-      <h3>Mock Exam</h3>
-      <div class="assessment-links">
-        <a href="{{ site.baseurl }}/Exams/Mock_Exam_2025.pdf" class="btn">Exam</a>
-        <a href="{{ site.baseurl }}/Exams/Solution_Mock_Exam_2025.pdf" class="btn btn-solution">Solution</a>
-      </div>
+      <h3>Final Exam 25/26</h3>
+      <p class="coming-soon">Coming soon</p>
     </div>
 
     <div class="assessment-card">
-      <h3>Final Exam 25/26</h3>
+      <h3>Final Exam 24/25</h3>
       <div class="assessment-links">
         <a href="{{ site.baseurl }}/Exams/Exam_2025.pdf" class="btn">Exam</a>
         <a href="{{ site.baseurl }}/Exams/Solution_Exam_2025.pdf" class="btn btn-solution">Solution</a>
@@ -115,8 +112,11 @@ permalink: /assessments/
     </div>
 
     <div class="assessment-card">
-      <h3>Final Exam 26/27</h3>
-      <p class="coming-soon">Coming soon</p>
+      <h3>Mock Exam</h3>
+      <div class="assessment-links">
+        <a href="{{ site.baseurl }}/Exams/Mock_Exam_2025.pdf" class="btn">Exam</a>
+        <a href="{{ site.baseurl }}/Exams/Solution_Mock_Exam_2025.pdf" class="btn btn-solution">Solution</a>
+      </div>
     </div>
   </section>
 
