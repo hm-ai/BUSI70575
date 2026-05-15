@@ -120,18 +120,4 @@ permalink: /assessments/
     </div>
   </section>
 
-  <section>
-    <h2>Coursework</h2>
-
-    <h3>2025/2026</h3>
-    <p class="coming-soon">Coming soon</p>
-
-    <h3>2024/2025</h3>
-    <div class="assessment-card">
-      <h3>Competition Coursework 2025</h3>
-      <div class="assessment-links">
-        <a href="https://colab.research.google.com/drive/1---SysIELmc-zlDn5t3Ebm0H7vFQ41HB?usp=sharing" class="btn btn-colab">Open Coursework</a>
-      </div>
-    </div>
-  </section>
 </article>
