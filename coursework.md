@@ -134,7 +134,7 @@ permalink: /coursework/
     <p>Build a rich feature set drawing on the techniques covered in the course:</p>
     <ul>
       <li>Technical indicators</li>
-      <li>Latent variable models (GMM, HMM, SOM-HMM)</li>
+      <li>Latent variable models (GMM, HMM)</li>
       <li>Any of the unsupervised learning methods we discussed</li>
       <li>Anything else you can justify</li>
     </ul>
@@ -166,7 +166,6 @@ permalink: /coursework/
       <li>Classification metrics: precision, recall, F1, AUC</li>
       <li>Confusion matrix and decision-threshold analysis</li>
       <li><strong>Per-instrument breakdown</strong> (the metamodel may help on some instruments and not others, say so)</li>
-      <li>Calibration plot (reliability diagram)</li>
       <li>Comparison against a baseline that follows the primary signal blindly</li>
     </ul>
 
