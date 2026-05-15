@@ -48,6 +48,7 @@ permalink: /syllabus/
       <div class="materials">
         <a href="{{ site.baseurl }}/Lectures/Session_3/Lecture_3.pdf" class="btn">Slides</a>
         <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Lecture_Notes_LVM.pdf" class="btn btn-optional">Optional Lecture Notes</a>
+        <a href="https://colab.research.google.com/drive/1R_FicWE26qC7GVTjnI0PMntwrfk71hhC?usp=sharing" class="btn btn-optional">Optional Colab</a>
         <a href="https://colab.research.google.com/drive/1wHLzIDWsvotAnTJHfE1TbEepbm630Wo8?usp=sharing" class="btn btn-colab">Colab</a>
         <a href="https://colab.research.google.com/drive/1VmAMgXONTwS75alXxVBISljMvOOYSoSz?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
