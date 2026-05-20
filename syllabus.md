@@ -75,9 +75,8 @@ permalink: /syllabus/
 
     <div class="week-card">
       <div class="week-date">May 20, 2026</div>
-      <h3>Session 6: Introducing Variable Selection Networks</h3>
+      <h3>Session 6: Project - Introducing Variable Selection Networks</h3>
       <div class="materials">
-        <a href="{{ site.baseurl }}/Lectures/Session_6/Lecture_6.pdf" class="btn">Slides</a>
         <a href="https://colab.research.google.com/drive/1cdPc8iDXwXOVKBRhC68OOQlGr3Y6287i?usp=sharing" class="btn btn-colab">Colab</a>
         <a href="https://colab.research.google.com/drive/1_wQoRnnKuuVVQvN-dhVUulgaJM7MQCXI?usp=sharing" class="btn btn-solution">Solution</a>
       </div>
