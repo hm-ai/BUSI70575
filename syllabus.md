@@ -133,7 +133,7 @@ permalink: /syllabus/
 
     <div class="week-card week-optional">
       <div class="week-date">May 29, 2026</div>
-      <h3>Optional Session 3: Introduction to Large Language Models</h3>
+      <h3>Optional Session 3: Position Sizing with the Metamodel</h3>
       <div class="materials">
         <span class="coming-soon">Coming soon</span>
       </div>

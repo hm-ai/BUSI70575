@@ -265,7 +265,7 @@ title: Home
         </tr>
         <tr class="optional-row">
           <td>Optional Session 3</td>
-          <td>Introduction to Large Language Models</td>
+          <td>Position Sizing with the Metamodel</td>
           <td>May 29</td>
           <td>4pm - 5pm</td>
           <td>Sherfield Room 323</td>
