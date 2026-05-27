@@ -263,11 +263,25 @@ title: Home
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>Review of Latent Variable Models</td>
+          <td>May 29</td>
+          <td>3pm - 4pm</td>
+          <td>Sherfield Room 323</td>
+        </tr>
         <tr class="optional-row">
           <td>Optional Session 3</td>
           <td>Position Sizing with the Metamodel</td>
           <td>May 29</td>
           <td>4pm - 5pm</td>
+          <td>Sherfield Room 323</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>Review of Neural Networks</td>
+          <td>May 29</td>
+          <td>5pm - 6pm</td>
           <td>Sherfield Room 323</td>
         </tr>
         <tr class="office-hours-row week-start">
