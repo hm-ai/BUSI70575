@@ -135,7 +135,7 @@ permalink: /syllabus/
       <div class="week-date">May 29, 2026</div>
       <h3>Optional Session 3: Position Sizing with the Metamodel</h3>
       <div class="materials">
-        <span class="coming-soon">Coming soon</span>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Session_3.pdf" class="btn">Lecture Notes</a>
       </div>
     </div>
 
