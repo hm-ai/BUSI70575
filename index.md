@@ -305,11 +305,18 @@ title: Home
           <td>5pm - 6pm</td>
           <td>Sherfield Room 324</td>
         </tr>
-        <tr class="optional-row">
-          <td>Optional Session 4</td>
-          <td>Building Reasoning Models</td>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>Review of Latent Variable Models</td>
           <td>June 5</td>
           <td>4pm - 5pm</td>
+          <td>LT1</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>Review of Neural Networks</td>
+          <td>June 5</td>
+          <td>5pm - 6pm</td>
           <td>LT1</td>
         </tr>
         <tr class="office-hours-row week-start">
@@ -334,11 +341,25 @@ title: Home
           <td>Sherfield Room 324</td>
         </tr>
         <tr class="office-hours-row">
-          <td>Additional Office Hours</td>
-          <td>Online Q&amp;A</td>
+          <td>Office Hours</td>
+          <td>Review of Tree-based Models</td>
+          <td>June 12</td>
+          <td>2pm - 3pm</td>
+          <td>Room to be defined</td>
+        </tr>
+        <tr class="office-hours-row">
+          <td>Office Hours</td>
+          <td>Review of Sequential Neural Networks</td>
+          <td>June 12</td>
+          <td>3pm - 4pm</td>
+          <td>Room to be defined</td>
+        </tr>
+        <tr class="optional-row">
+          <td>Optional Session 4</td>
+          <td>Building Reasoning Models</td>
           <td>June 12</td>
           <td>4pm - 5pm</td>
-          <td>Zoom</td>
+          <td>Room to be defined</td>
         </tr>
       </tbody>
     </table>
