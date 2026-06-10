@@ -345,21 +345,21 @@ title: Home
           <td>Review of Tree-based Models</td>
           <td>June 12</td>
           <td>2pm - 3pm</td>
-          <td>Room to be defined</td>
+          <td>LT1</td>
         </tr>
         <tr class="office-hours-row">
           <td>Office Hours</td>
           <td>Review of Sequential Neural Networks</td>
           <td>June 12</td>
           <td>3pm - 4pm</td>
-          <td>Room to be defined</td>
+          <td>LT1</td>
         </tr>
         <tr class="optional-row">
           <td>Optional Session 4</td>
           <td>Building Reasoning Models</td>
           <td>June 12</td>
           <td>4pm - 5pm</td>
-          <td>Room to be defined</td>
+          <td>LT1</td>
         </tr>
       </tbody>
     </table>

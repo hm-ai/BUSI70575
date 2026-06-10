@@ -140,7 +140,7 @@ permalink: /syllabus/
     </div>
 
     <div class="week-card week-optional">
-      <div class="week-date">June 12, 2026</div>
+      <div class="week-date">June 12, 2026 · LT1</div>
       <h3>Optional Session 4: Building Reasoning Models</h3>
       <div class="materials">
         <span class="coming-soon">Coming soon</span>
