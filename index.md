@@ -356,7 +356,7 @@ title: Home
         </tr>
         <tr class="optional-row">
           <td>Optional Session 4</td>
-          <td>Building Reasoning Models</td>
+          <td>Introducing Reasoning Models and Agentic AI</td>
           <td>June 12</td>
           <td>4pm - 5pm</td>
           <td>LT1</td>

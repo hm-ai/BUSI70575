@@ -141,9 +141,9 @@ permalink: /syllabus/
 
     <div class="week-card week-optional">
       <div class="week-date">June 12, 2026 · LT1</div>
-      <h3>Optional Session 4: Building Reasoning Models</h3>
+      <h3>Optional Session 4: Introducing Reasoning Models and Agentic AI</h3>
       <div class="materials">
-        <span class="coming-soon">Coming soon</span>
+        <a href="{{ site.baseurl }}/Lectures/Optional_Sessions/BUSI70575_Optional_Lecture_4_LLMs.pdf" class="btn">Lecture Notes</a>
       </div>
     </div>
 
